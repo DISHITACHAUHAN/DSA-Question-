@@ -26,5 +26,3 @@
 23. Write a program to implement BST with functions to insert, delete, and search
 24. Write a Program to implement BFS of graph
 25. Write a Program to implement DFS of graph
-
-* Follow the order if exercises are dependent on previous concepts.
