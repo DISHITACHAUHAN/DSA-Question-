@@ -1,5 +1,5 @@
-## DSA-Question - LAB FILE
-# List of Experiments
+# DSA-Question - LAB FILE
+## List of Experiments
 
 1. Write a Program to insert and delete an element in 1-D arrays
 2. Write a Program to implement reverse an arrays
